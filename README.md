@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Scientific Projects
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
+- mario.neto@lnbio.cnpem.br
 - +55 11 94526-2188
 
 <!---
