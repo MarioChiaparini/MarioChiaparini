@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m interested in Computational Science (Cheminformatics and Bioinformatics)
+- 👀 I’m interested in Computational Science (Molecular Modelling and Material Informatics)
 - 🌱 I’m currently learning Computational Chemistry (DFT calculation, Molecular Dynamics and other Ab Initio models)
 - 💞️ I’m looking to collaborate on Scientific Projects
 - 📫 How to reach me: 
