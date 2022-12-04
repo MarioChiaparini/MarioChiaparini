@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Computational Chemistry (DFT calculation, Molecular Dynamics and other Ab Initio models)
 - 💞️ I’m looking to collaborate on Scientific Projects
 - 🥼 Python and Julia developer 
-- 🧮 Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) and Deep Learning applications
+- 🧮 Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) 
+- 🤖 Deep Learning applications (Recurrent Neural Networks and Covolutional Neural Networks)
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
 - mario.neto@lnbio.cnpem.br
