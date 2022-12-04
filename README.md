@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computational Science (Molecular Modelling and Material Informatics)
 - 🌱 I’m currently learning Computational Chemistry (DFT calculation, Molecular Dynamics and other Ab Initio models)
 - 💞️ I’m looking to collaborate on Scientific Projects
-- 🧶 Python and Julia developer for Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) and Deep Learning applications
+- 🥼 Python and Julia developer 
+- 🧮 Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) and Deep Learning applications
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
 - mario.neto@lnbio.cnpem.br
