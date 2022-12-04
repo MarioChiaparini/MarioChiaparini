@@ -5,6 +5,8 @@
 - 🥼 Python and Julia developer 
 - 🧮 Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) 
 - 🤖 Deep Learning applications (Recurrent Neural Networks and Covolutional Neural Networks)
+- 🏺 High Performance Computing Containers in Singularity and Docker
+- 🎒 Playbooks in Ansible development (HPC cluster) 
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
 - mario.neto@lnbio.cnpem.br
