@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m interested in Computational Science (Molecular Modelling and Material Informatics)
-- 🌱 I’m currently learning Computational Chemistry (DFT calculation, Molecular Dynamics and other Ab Initio models)
+- 👀 I’m interested in Signal Processing (Energy Storage , Communication and Audio)
+- 🌱 I’m currently learning C++ , Lua and Julia
 - 🥼 Python and Julia developer 
-- 🧮 Computational Simulation (SCF, Runge-Kutta, Newton-Rapson, Finite-Elements and Euler Method) 
-- 🤖 Deep Learning applications (Recurrent Neural Networks and Convolutional Neural Networks)
+- 🧮 Computational Simulation (Finite-Elements) 
+- 🤖 Deep Learning applications (Recurrent Neural Networks , Convolutional Neural Networks and Boltzmann Restricted Machine)
 - 🏺 High Performance Computing Containers in Singularity and Docker
-- 🎒 Playbooks in Ansible development (HPC cluster) 
 - 💞️ I’m looking to collaborate on Scientific Projects
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
-- mario.neto@lnbio.cnpem.br
 - +55 11 94526-2188
 
 <!---
