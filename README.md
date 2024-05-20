@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m interested in Signal Processing (Energy Storage , Communication and Audio)
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning C++ , Lua and Julia
 - 🥼 Python and Julia developer 
 - 🧮 Computational Simulation (Finite-Elements) 
