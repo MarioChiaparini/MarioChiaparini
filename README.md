@@ -1,14 +1,21 @@
 - 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning C++ , Lua and Julia
-- 🥼 Python and Julia developer 
-- 🧮 Computational Simulation (Finite-Elements) 
-- 🤖 Deep Learning applications (Recurrent Neural Networks , Convolutional Neural Networks and Boltzmann Restricted Machine)
-- 🏺 High Performance Computing Containers in Singularity and Docker
-- 💞️ I’m looking to collaborate on Scientific Projects
+- 👀 I’m a researcher in qunatum communications working in a computer networks group!
+
+- Molecular Modelling:
+  1. Bioinformatics (Molecular Docking)
+  2. Electrochemistry (Electrochemical Models and DFT)
+ 
+- Quantum Technologies:
+  1. Quantum Communicatios (Magnon-Polariton and Optical Netsworks)
+  2. Quantum Computing (Trapped Ions)
+
+- Computational Intelligence:
+  1. Computer Vision (Hyperspectral Images)
+  2. Times Series Forecasting (Electrical Signals)
+
+  
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
-- +55 11 94526-2188
 
 <!---
 MarioChiaparini/MarioChiaparini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
