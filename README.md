@@ -8,7 +8,7 @@
  
 - Quantum Technologies:
   (2023-Now)
-  1. Quantum Communicatios (Magnon-Polariton and Optical Netsworks)
+  1. Quantum Communicatios (Magnon-Polariton and Optical Networks)
   2. Quantum Computing (Trapped Ions)
 
 - Computational Intelligence:
