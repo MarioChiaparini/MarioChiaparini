@@ -1,22 +1,16 @@
 - 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m a researcher in qunatum communications working in a computer networks group!
+- 👀 I’m a researcher in quantum communications working in a computer engineering group!
 
-- Molecular Modelling:
+- Molecular Modelling (Undergraduate)
   (2020-2023)
-  1. Bioinformatics (Molecular Docking)
-  2. Electrochemistry (Electrochemical Models and DFT)
+  1. Molecular Docking and Dynamics
+  2. Electrochemistry 
  
-- Quantum Technologies:
+- Quantum Technologies (PhD in Computer Engineering) 
   (2023-Now)
-  1. Quantum Communicatios (Magnon-Polariton and Optical Networks)
-  2. Quantum Computing (Trapped Ions)
-
-- Computational Intelligence:
-  (2020-Now)
-  1. Computer Vision (Hyperspectral Images)
-  2. Times Series Forecasting (Electrical Signals)
-
-  
+  1. Optics and Photonics
+  2. Computer Networking
+ 
 - 📫 How to reach me: 
 - mariochiaparin@gmail.com
 
