@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioChiaparini
 - 👀 I’m a researcher in quantum communications working in a computer engineering group!
 
-- Molecular Modelling (Undergraduate)
+- Molecular Modelling (Bsc in Chemical & Electrical Engineering)
   (2020-2023)
   1. Molecular Docking and Dynamics
   2. Electrochemistry 
