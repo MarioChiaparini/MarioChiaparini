@@ -3,11 +3,13 @@
 
 - Molecular Modelling (Bsc in Chemical & Electrical Engineering)
   (2020-2023)
-  1. Molecular Docking and Dynamics
+  
+  1. Bioinformatics
   2. Electrochemistry 
  
 - Quantum Technologies (PhD in Computer Engineering)
   (2023-Now)
+
   1. Optics and Photonics
   2. Computer Networking
  
