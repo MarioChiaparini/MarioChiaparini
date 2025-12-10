@@ -9,8 +9,6 @@ I'm an electronics researcher working in a computer networking group, bridging h
 
 ### 🔬 Research Specialization
 
-My work sits at the intersection of hardware engineering and scientific computing:
-
 #### 1. Computational & Applied Electromagnetics
 - Antenna design and optimization
 - Radio frequency circuit hardware development
