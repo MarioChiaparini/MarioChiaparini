@@ -1,22 +1,30 @@
-- 👋 Hi, I’m @MarioChiaparini
-- 👀 I’m a researcher in quantum communications working in a computer engineering group!
+# 👋 Hi, I'm Mario Chiapparini
 
-- Molecular Modelling (Bsc in Chemical & Electrical Engineering)
-  (2020-2023)
-  
-  1. Bioinformatics
-  2. Electrochemistry 
- 
-- Quantum Technologies (PhD in Computer Engineering)
-  (2023-Now)
+## About Me
 
-  1. Optics and Photonics
-  2. Computer Networking
- 
-- 📫 How to reach me: 
-- mariochiaparin@gmail.com
+I'm an electronics researcher working in a computer networking group, bridging hardware design with advanced computational methods.
 
-<!---
-MarioChiaparini/MarioChiaparini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 Education
+- **PhD in Computer Engineering**
+
+### 🔬 Research Specialization
+
+My work sits at the intersection of hardware engineering and scientific computing:
+
+#### 1. Computational & Applied Electromagnetics
+- Antenna design and optimization
+- Radio frequency circuit hardware development
+- Numerical simulation and modeling
+
+#### 2. Computational & Applied Electrochemistry
+- Battery management system hardware design
+- Lithium battery energy consumption analysis
+- Physics-based computational modeling
+
+### 📫 Contact
+
+**Email:** mariochiaparin@gmail.com
+
+---
+
+*My interdisciplinary background in chemical and electrical engineering has always been applied through the lens of scientific computing, enabling me to tackle complex hardware challenges with advanced computational tools.*
