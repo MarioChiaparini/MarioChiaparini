@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an electronics researcher working in a computer networking group, bridging hardware design with advanced computational methods.
+I'm a researcher working in a computer networking group, bridging hardware design with advanced computational methods.
 
 ### 🎓 Education
 - **PhD in Computer Engineering** at Ericsson's Research Center (SMARTNESS)
