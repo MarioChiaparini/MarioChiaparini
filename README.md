@@ -5,19 +5,23 @@
 I'm an electronics researcher working in a computer networking group, bridging hardware design with advanced computational methods.
 
 ### 🎓 Education
-- **PhD in Computer Engineering**
+- **PhD in Computer Engineering** at Ericsson's Research Center (SMARTNESS)
 
-### 🔬 Research Specialization
+### 🔬 Research Specialization (Academic Career)
 
 #### 1. Computational & Applied Electromagnetics
-- Antenna design and optimization
-- Radio frequency circuit hardware development
-- Numerical simulation and modeling
+- Embedded Systems Development
+- Microwave Electronics and Communication
 
 #### 2. Computational & Applied Electrochemistry
-- Battery management system hardware design
-- Lithium battery energy consumption analysis
-- Physics-based computational modeling
+- Power Electronics for Battery Management Systems
+- Electrochemical Modeling
+
+### 🔬 Internships and   Part-time Jobs (Indsutry)
+
+#### 1. Scientific Computing and Machine Learning:
+- High Performance Computing
+- Computer Vision
 
 ### 📫 Contact
 
