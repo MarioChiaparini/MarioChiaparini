@@ -17,7 +17,7 @@ I'm an electronics researcher working in a computer networking group, bridging h
 - Power Electronics for Battery Management Systems
 - Electrochemical Modeling
 
-### 🔬 Internships and   Part-time Jobs (Indsutry)
+### 🔬 Internships and Part-time Jobs (Industry)
 
 #### 1. Scientific Computing and Machine Learning:
 - High Performance Computing
