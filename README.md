@@ -22,6 +22,8 @@ I'm an electronics researcher working in a computer networking group, bridging h
 #### 1. Scientific Computing and Machine Learning:
 - High Performance Computing
 - Computer Vision
+- Database Management
+- Cloud Computing
 
 ### 📫 Contact
 
