@@ -29,6 +29,4 @@ I'm an electronics researcher working in a computer networking group, bridging h
 
 **Email:** mariochiaparin@gmail.com
 
----
 
-*My interdisciplinary background in chemical and electrical engineering has always been applied through the lens of scientific computing, enabling me to tackle complex hardware challenges for electrochemical data acquisition from batteries and currently for data acquisition in antennas for frequency-modulated radar applications and millimeter-wave telecommunication systems with advanced computational tools.*
